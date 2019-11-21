@@ -1,0 +1,31 @@
+.PortfolioItem{
+    list-style-type: none;
+    display: inline-block;
+    width: 300px;
+    margin: 5px;
+    background-color: #d3d4d6;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    border-radius: 5px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+.PortfolioItem ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.PortfolioItem ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    padding: 2px 5px;
+    margin: 2px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+.PortfolioItem img{
+    width: 100%;
+    height: 180px;
+}
+

@@ -1,0 +1,21 @@
+.Menu{
+    background-color: #fff;
+    border-bottom: 1px solid #999;
+    margin-bottom: 10px;
+    position: fixed;
+    width: 100%;
+}
+.Menu ul{
+    margin: 0;
+    padding: 0;
+    background-color: #4a76a8;
+}
+.Menu ul li{
+    list-style-type: none;
+    background-color: #f9f9f9;
+    display: inline-block;
+    padding: 3px 8px;
+    margin: 5px;
+    border: 1px solid #999;
+    cursor: pointer;
+}
